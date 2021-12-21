@@ -1,0 +1,9 @@
+{
+  "database": {
+    "db-name": "testing",
+    "db-uri": "mongodb+srv://popo:123@cluster10.lhltr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  },
+  "server": {
+    "port": 3001
+  }
+}
